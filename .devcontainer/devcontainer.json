@@ -1,0 +1,9 @@
+{
+  "name": "Ubuntu Desktop",
+  "image": "://microsoft.com",
+  "features": {
+    "ghcr.io/devcontainers/features/desktop-lite:1": {
+      "version": "latest"
+    }
+  }
+}
